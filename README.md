@@ -4,8 +4,10 @@
 The purpose of this project is assemble bike sharing data from NYC to create an analysis of the data in a visual format to convince investors that a bike sharing business in Des Moines, Iowa is valid.
 
 ## Results
-### Link to Tableau Visualizations
-https://public.tableau.com/shared/X5B38R9PK?:display_count=n&:origin=viz_share_link
+### Links to Tableau Visualizations
+All worksheets, dashboards & story: https://public.tableau.com/views/NYCCitiBikes_16493568836250/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Tableau story: https://public.tableau.com/app/profile/joel.branaman/viz/shared/X5B38R9PK
 
 ### Analysis of Data
 The population of NYC is approximately 8.4 million while Des Moines is approximately 215,000 making the population of Des Moines 2.5% of NYC's population. With that scale in mind, looking at the number of rides overall and at peak times and expectation for rides in Des Moines can be understood. Overall, there are 2,344,224 rides in NYC so at a 2.5% ratio it can be expected if overall use is the same that the number of rides in Des Moines will be approximately 58,605. At the peak time for rides in NYC, the number of rides is 9,740 so the peak number rides to likely expect in Des Moines will be approximately 243.
