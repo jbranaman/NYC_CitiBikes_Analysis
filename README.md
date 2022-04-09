@@ -17,5 +17,6 @@ The data indicates that the majority of riders are male and they are mostly ridi
 ![Gender Data](https://user-images.githubusercontent.com/96451672/162589034-da1b903b-8aab-4b3b-9bad-b6e4916286d7.png)
 
 The overall data for combined genders on duration of trips and checkout times is equivalent to the data analyzed according to gender. The likely conclusion is that riders are using the bike sharing service as means of commuting to work.
-![Trip Durations and Trip Times](https://user-images.githubusercontent.com/96451672/162589815-508553ae-f371-40fc-af10-9bfdbe3359ae.png)
+![Trip Durations and Trip Times](https://user-images.githubusercontent.com/96451672/162590084-09fddc2d-fbdc-4b57-9bdf-6f96543d58c2.png)
+
 
